@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fjall.Reincarnate.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "Reincarnate.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
